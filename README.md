@@ -1,5 +1,1 @@
 # Slash project
-
-## A faire : 
-
-### 
